@@ -13,7 +13,7 @@ Calculate ingredient quantities and budget estimations for any recipe.
 Foster connections within the food community by sharing your own culinary masterpieces.
 Intuitive interface and user-friendly experience, thanks to the power of Flutter and Spring Boot.
 
-My portfulio :
+My portfolio :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ben-Mbarek-Mohamed/Mini_Projet_DA/master?filepath=/notebook.ipynb)
 
 Demo video :
