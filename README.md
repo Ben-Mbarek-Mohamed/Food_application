@@ -1,7 +1,7 @@
 ## Project Description
 Introducing Milla Benna, the ultimate culinary companion for food enthusiasts and home cooks alike. Seamlessly developed using Flutter, Spring Boot, and MongoDB, this innovative platform redefines the way the food community connects, shares, and creates unforgettable culinary experiences.
 
-Discover a world of flavors as the food community unites to share their most cherished recipes on [Your Application Name]. Whether you're a seasoned chef or an aspiring home cook, you'll find a treasure trove of culinary inspiration that spans cultures, cuisines, and tastes. Browse through an extensive collection of meticulously crafted recipes, each meticulously detailed to guide you through the art of creating delectable dishes.
+Discover a world of flavors as the food community unites to share their most cherished recipes on Milla Benna. Whether you're a seasoned chef or an aspiring home cook, you'll find a treasure trove of culinary inspiration that spans cultures, cuisines, and tastes. Browse through an extensive collection of meticulously crafted recipes, each meticulously detailed to guide you through the art of creating delectable dishes.
 
 But Milla Benna offers more than just recipes; it's a comprehensive culinary toolbox. With our unique features, users can not only explore and try new recipes but also tailor them to their preferences and needs. Plan your meals effortlessly by calculating ingredient quantities based on the number of servings you require. Our budget calculation tool empowers you to make informed decisions, ensuring your culinary creations fit your financial plan without compromising on taste and quality.
 
